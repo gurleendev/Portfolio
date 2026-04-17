@@ -53,15 +53,15 @@
 ### ☁️ AWS Projects
 - **Two VPCs with Full Mesh VPC Peering**  
   AWS networking project focused on **VPC peering** configuration.  
-  [View Project](https://github.com/gurleendev/Two-VPCs-with-full-mesh-VPC-Peering-.git)
+  [View Project](https://github.com/gurleendev/Two-VPCs-with-full-mesh-VPC-Peering-)
 
 - **Secure Web Hosting with AWS S3 and CORS Integration**  
   Project demonstrating secure static hosting with **Amazon S3** and **CORS** configuration.  
-  [View Project](https://github.com/gurleendev/Secure-Web-Hosting-with-AWS-S3-and-CORS-Integration.git)
+  [View Project](https://github.com/gurleendev/Secure-Web-Hosting-with-AWS-S3-and-CORS-Integration)
 
 - **AWS Multi-Instance Deployment with Docker Orchestration**  
   Deployment project using **Docker** and **AWS security groups**.  
-  [View Project](https://github.com/gurleendev/AWS-Multi-Instance-Deployment-with-Docker-Orchestration.git)
+  [View Project](https://github.com/gurleendev/AWS-Multi-Instance-Deployment-with-Docker-Orchestration)
 
 ---
 
