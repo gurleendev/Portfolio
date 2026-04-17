@@ -74,5 +74,5 @@
 ---
 
 ## 📫 Connect With Me
-- **GitHub:** [GurleenSinghCanada](https://github.com/GurleenSinghCanada)
+- **GitHub:** [GurleenDev](https://github.com/gurleendev/Portfolio)
 - **LinkedIn:** [Gurleen Singh](https://www.linkedin.com/in/gurleen-singh5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
