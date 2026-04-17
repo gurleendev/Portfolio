@@ -13,7 +13,7 @@
 ### 📱 React / Mobile App
 - **ZyleSleep**  
   Sleep tracking and wellness mobile app built with **React** and **Capacitor**, featuring **Health Connect integration**, hydration tracking, alarms, and a smart assistant screen.  
-  [View Project]((https://github.com/gurleendev/ZyleSleepGroup-main/blob/main/README.md))
+  [View Project](https://github.com/gurleendev/ZyleSleepGroup-main/blob/main/README.md)
 
 ---
 
