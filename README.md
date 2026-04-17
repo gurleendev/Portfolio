@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer | Full-Stack Development | Cloud & IT Support</h3>
 
 <p align="center">
-  <a href="https://github.com/GurleenSinghCanada">GitHub</a> •
+  <a href="https://github.com/gurleendev/Portfolio">GitHub</a> •
   <a href="https://www.linkedin.com/in/gurleen-singh5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a>
 </p>
 
